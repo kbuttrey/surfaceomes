@@ -1,0 +1,13 @@
+{
+	"file": "https://github.com/kbuttrey/surfaceomes/blob/main/binary_format_combined_surfaceome_dataset.csv",
+	"name": "Surfaceomes",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 5 }
+	]
+}
